@@ -4,10 +4,10 @@
 
 ### Data Analysis & Preprocessing
 
-* [ ] Data Preprocessing
-* [ ] Exploratory Data Analysis
-* [ ] Feature Engineering
-* [ ] Data Pipelines
+* [x] Data Preprocessing
+* [x] Exploratory Data Analysis
+* [x] Feature Engineering
+* [x] Data Pipelines
 
 ### Machine Learning
 
